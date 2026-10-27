@@ -1,0 +1,38 @@
+export const vehiculos = [
+  {
+    id: 1,
+    patente: "ABCD-12",
+    marca: "Toyota",
+    modelo: "Yaris",
+    precio: 25000,
+    imagen: "/img/Toyota Yaris.jpg",
+    categoria: "Económico",
+  },
+  {
+    id: 2,
+    patente: "WXYZ-89",
+    marca: "Hyundai",
+    modelo: "Accent",
+    precio: 30000,
+    imagen: "/img/Hyundai Accent.jpg",
+    categoria: "Económico",
+  },
+  {
+    id: 3,
+    patente: "KLMP-34",
+    marca: "Chevrolet",
+    modelo: "Sail",
+    precio: 20000,
+    imagen: "/img/Chevrolet Sail.jpg",
+    categoria: "Oferta",
+  },
+  {
+    id: 4,
+    patente: "QRST-56",
+    marca: "Nissan",
+    modelo: "Versa",
+    precio: 28000,
+    imagen: "/img/Nissan Versa.jpg",
+    categoria: "Familiar",
+  },
+];
